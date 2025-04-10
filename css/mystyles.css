@@ -1,0 +1,10 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(170, 231, 231);
+}
+h1, h2, h3, .subheading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+a:hover{
+    color: rgb(0, 0, 96) !important;
+}

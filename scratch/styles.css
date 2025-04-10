@@ -1,0 +1,55 @@
+body {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   background-color: pink;
+   color: rgb(5, 5, 97);
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AlxleZl_DWenKoCL4jSwRxqzIF7s-6fzSg&s);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+a {
+   color: white;
+   background-color: rgb(70, 70, 70);
+}
+
+h1,
+h2 {
+   text-align: center;
+}
+
+img {
+   border: 5px solid orange;
+   padding: 5px;
+   height: 250px;
+   margin: auto;
+   display: block;
+}
+
+/* the dot means not existing element - I made it up */
+.rizz {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: rgb(20, 176, 160);
+   border: 5px dashed violet;
+   font-size: 400%;
+   font-weight: bolder;
+   background-color: cornsilk;
+}
+
+.rizz:hover {
+   font-size: 450%;
+   color: rgb(255, 81, 0);
+   border: 5px solid green;
+}
+
+li {
+   width: fit-content;
+}
+
+li:hover {
+   text-decoration: underline;
+   background-color: lightgreen;
+}
+
+.bigIMG {
+   height: 550px;
+}
